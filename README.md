@@ -1,4 +1,4 @@
-# Repositorio para Hacktoberfest 2020
+# Repositorio para Hacktoberfest Temple 2020
 
 Repositorio para los participantes del Hacktoberfest 2020.
 
