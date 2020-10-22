@@ -42,7 +42,7 @@ Ya hiciste tu primera contribución.
 
 # Contribuidores :heart:
 - Jose Jesus Perez Perez (perezjj), implementacion de tipo de cambio de la pagina de sbs 
--  
+- Jose Jesus Perez Perez (perezjj), implementacion de captura del clima de la ciudad de Huancayo-Perú  
 -  
 -  
 > (Agrega tu nombre)
