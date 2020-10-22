@@ -41,8 +41,8 @@ Y eso es todo!!!
 Ya hiciste tu primera contribución.
 
 # Contribuidores :heart:
+- Jose Jesus Perez Perez (perezjj), implementacion de tipo de cambio de la pagina de sbs 
 -  
 -  
 -  
--  
-> ose Jesus Perez Perez (perezjj), implementacion de tipo de cambio de la pagina de sbs
+> (Agrega tu nombre)
