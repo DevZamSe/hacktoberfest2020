@@ -41,7 +41,7 @@ Y eso es todo!!!
 Ya hiciste tu primera contribución.
 
 # Contribuidores :heart:
--  
+- Enrique David Avalos Ortega [@edavot](https://github.com/edavot)
 -  
 -  
 -  
