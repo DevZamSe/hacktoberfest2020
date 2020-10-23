@@ -41,8 +41,10 @@ Y eso es todo!!!
 Ya hiciste tu primera contribución.
 
 # Contribuidores :heart:
+- Nilo Vila Zamora (devzamse), implementación del scraping a Kambista y Cocos y Lucas
+- Jose Jesus Perez Perez (perezjj), implementacion de tipo de cambio de la pagina de sbs 
+- Jose Jesus Perez Perez (perezjj), implementacion de captura del clima de la ciudad de Huancayo-Perú
 - Enrique David Avalos Ortega [@edavot](https://github.com/edavot)
--  
 -  
 -  
 > (Agrega tu nombre)
